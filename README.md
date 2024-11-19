@@ -1,0 +1,1 @@
+An application in Java based on the MVC architecture with a graphical interface in Swing. The application utilizes the Sieve of Eratosthenes algorithm and will be adapted to support a web server and integration with databases. Particular emphasis has been placed on good programming practices and thorough Javadoc documentation.
